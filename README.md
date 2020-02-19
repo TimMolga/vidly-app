@@ -7,21 +7,16 @@ This is the implementation of Vidly in React.
 
 ## Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To run the project, do the following:
 
-## Available Scripts
+### Install the Dependencies
 
-To run the project, run the following:
+From the project folder, install the dependencies:
 
-### `npm i`
+    npm i
 
-Installs all dependencies required for the project.
+### Run the app
 
-### `npm start`
+    npm start
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
